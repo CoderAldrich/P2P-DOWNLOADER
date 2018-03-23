@@ -31,3 +31,7 @@ https://www.jianshu.com/p/f2c31e632f1d
 ### 8. BitTorrent的DHT协议(译自官方版本)
 
 http://blog.csdn.net/xxxxxx91116/article/details/7970815
+
+### 9. P2P中DHT网络介绍
+
+https://blog.csdn.net/mergerly/article/details/7989281
