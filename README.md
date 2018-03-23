@@ -35,3 +35,6 @@ http://blog.csdn.net/xxxxxx91116/article/details/7970815
 ### 9. P2P中DHT网络介绍
 
 https://blog.csdn.net/mergerly/article/details/7989281
+
+### 10. python DHT爬虫学习笔记
+http://www.cnblogs.com/devcjq/articles/6169652.html
