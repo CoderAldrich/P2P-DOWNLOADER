@@ -41,3 +41,6 @@ http://www.cnblogs.com/devcjq/articles/6169652.html
 
 ### 11.libtorrent API Documentation
 https://www.libtorrent.org/manual.html
+
+### 12. P2P中DHT网络爬虫
+http://codemacro.com/2013/05/19/crawl-dht/
