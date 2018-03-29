@@ -38,3 +38,6 @@ https://blog.csdn.net/mergerly/article/details/7989281
 
 ### 10. python DHT爬虫学习笔记
 http://www.cnblogs.com/devcjq/articles/6169652.html
+
+### 11.libtorrent API Documentation
+https://www.libtorrent.org/manual.html
